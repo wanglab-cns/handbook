@@ -10,7 +10,7 @@ We use slack for communication within the lab. Currently, we are part of the BHK
 ## Code and Data Repositories
 
 ### GitHub
-We use GitHub to host our code. Please reach out to Farnoosh or Andrew to be added to the Wang Lab GitHub organization. We recommend that for any work done on the servers like nibi, you should use GitHub to store your code. This will make it easier to share your work with others in the lab and to keep track of changes.
+We use GitHub to host our code. Please reach out to Farnoosh or Andrew to be added to the [Wang Lab GitHub organization](https://github.com/wanglab-cns). We recommend that for any work done on the servers like nibi, you should use GitHub to store your code. This will make it easier to share your work with others in the lab and to keep track of changes.
 
 ## Lab Management
 
@@ -24,4 +24,4 @@ Here, you can find presentations, grants, and other documents that are relevant 
 We use both the Digital Research Alliance of Canada (DRAC) and the HPC4Health (H4H) for computing needs. Please see the following pages for more information on how to access these resources:
 
 - [Digital Research Alliance of Canada (DRAC)](drac.md)
-- [HPC4Health (H4H)](hpc4health.md)
+- [HPC4Health (H4H)](h4h.md)

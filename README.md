@@ -61,11 +61,10 @@ git push origin feature/<branch-name>
 
 Finally, create a pull request on GitHub to merge your changes into the main branch. Please ensure that your changes are reviewed and approved by a lab member before merging.
 
-Once your changes are merged into the main branch, the handbook will be automatically built and deployed to GitHub Pages. Switch back to the main branch and pull the latest changes to keep your local repository up to date:
+Once your changes are merged into the main branch, you will need to deploy the updated handbook to GitHub Pages. You can do this by running the following commands in your terminal:
 
 ```bash
 git checkout main
 git pull origin main
+mkdocs gh-deploy
 ```
-
-*NOTE*: The handbook uses GitHub actions to automatically build and deploy the handbook to GitHub Pages whenever changes are pushed to the main branch. Therefore, it is important to ensure that your changes are thoroughly reviewed and tested before merging them into the main branch.

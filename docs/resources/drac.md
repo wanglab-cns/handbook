@@ -11,3 +11,14 @@ We typically use DRAC for analysis of public datasets. Specifically, we use the 
     - Select Resources -> HPC -> nibi and click "Request Access".
 
 ### Structure of Nibi Cluster
+At a high level, the nibi cluster is structured as follows:
+
+- **Projects**: Each lab has a project directory where all members can store and access data. For the Wang Lab, this is located at `/project/def-wanglab`.
+
+- **Home Directories**: Each user has a home directory where they can store personal files. This is located at `/home/<username>`.
+
+- **Scratch Directories**: Each user has a scratch directory for temporary storage of files. This is located at `/scratch/<username>`. Files in the scratch directory are not backed up and may be deleted after a certain period of time, so it is important to move any important files to your home or project directory.
+
+### Learning more about DRAC and nibi
+- [DRAC Documentation](https://docs.alliancecan.ca/wiki/Technical_documentation)
+- [Nibi Documentation](https://docs.alliancecan.ca/wiki/Nibi)
