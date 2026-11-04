@@ -1,4 +1,14 @@
 site_name: Wang Lab Handbook
 nav:
   - Home: index.md
+  - General:
+    - Lab Meetings: general/lab-meetings.md
+  - Onboarding & Offboarding:
+    - Onboarding: transitions/onboarding.md
+    - Offboarding: transitions/offboarding.md
+  - Resources: 
+      - Overview: resources/resources.md
+      - Digital Resource Alliance of Canada: resources/drac.md
+      - HPC4Health: resources/h4h.md
+      
 theme: readthedocs
