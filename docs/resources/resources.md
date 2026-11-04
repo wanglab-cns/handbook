@@ -5,7 +5,7 @@ We use a variety of resources for our work, from remote clusters to data reposit
 ## Communication
 ### Slack
 
-We use slack for communication within the lab. Currently, we are part of the BHK lab Slack workspace. You can join the workspace by following this fill_me_in.
+We use slack for communication within the lab. Currently, we are part of the BHK lab Slack workspace. Please reach out to Farnoosh to be added to the workspace.
 
 ## Code and Data Repositories
 
